@@ -1,13 +1,12 @@
-import styles from "./Hero.module.css";
-
-const AVATAR_URL = "./src/assets/RC_Headshot_10yrAnniversary.JPG"
+import avatarImage from '../../assets/RC_Headshot_10yrAnniversary.JPG';
+import styles from './Hero.module.css';
 
 export function Hero() {
   return (
     <section className={styles.hero} id="hero" aria-label="Introduction">
       <div className={styles.content}>
         <img
-          src={AVATAR_URL}
+          src={avatarImage}
           alt="Ryry's profile"
           className={styles.avatar}
           width={320}
