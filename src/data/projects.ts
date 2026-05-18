@@ -20,7 +20,7 @@ export const projects: Project[] = [
     id: 'next-move',
     title: 'Next Move',
     description:
-      'A collaborative task management app with drag-and-drop boards, due dates, and team assignments.',
+      'NextMove is a lightweight job application tracker with a built-in resume analyzer designed to help candidates apply more intentionally.',
     image:
       'https://images.unsplash.com/photo-1450101499163-c8848c66ca85?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     url: 'https://github.com/RyanTF313/nextmove',
