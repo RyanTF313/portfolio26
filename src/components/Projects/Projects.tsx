@@ -14,8 +14,8 @@ export function Projects() {
           Projects
         </h2>
         <p className={styles.subheading}>
-          A selection of recent work showcasing React, UI craft, and attention
-          to detail.
+          A selection of recent work showcasing React, NEXT.JS, AI, and attention
+          to detail. I am always looking for new projects to work on, so feel free to reach out if you have any ideas.
         </p>
         <ul className={styles.grid}>
           {projects.map((project) => (
